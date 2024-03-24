@@ -4,7 +4,9 @@
 # 📊 GitHub Stats:
 
 <a href="https://github.com/thibautmarcq/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=thibautmarcq&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /></a>
+
 <a href="https://github.com/thibautmarcq/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thibautmarcq&theme=dark&hide_border=false" /></a>
+
 <a href="https://github.com/thibautmarcq/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thibautmarcq&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></a>
 
 
