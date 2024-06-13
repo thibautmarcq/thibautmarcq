@@ -7,8 +7,12 @@
 ------
 ### 📊 Stats Github :
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=thibautmarcq&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thibautmarcq&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=495)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thibautmarcq&theme=city_light&hide_border=false" alt="Streak Stats" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thibautmarcq&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=400" alt="Top Languages" height="150"/>
+</div>
+
+
 
 
 
