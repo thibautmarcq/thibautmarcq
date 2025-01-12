@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=thibautmarcq&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Bienvenue sur mon profil 👋
 > Etudiant en informatique à Sorbonne Université
 ------
