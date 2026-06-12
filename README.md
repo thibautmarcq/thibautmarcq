@@ -2,9 +2,7 @@
 > **Étudiant en M2 Informatique [SAR](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-sar)** @ [Sorbonne Université](https://www.sorbonne-universite.fr/)  
 > **Passionné par :** Systèmes, Algorithmique, Programmation Bas Niveau - Concurrente & Répartie
 ------
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
-<tr>
-<td valign="top" width="60%" style="border:none;">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thibautmarcq&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 #### 🛠️ Langages principaux
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -19,15 +17,6 @@
 #### 🤓 En cours d'apprentissage / Quelques notions
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-
-</td>
-<td valign="middle" align="right" width="40%" style="border:none;">
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thibautmarcq&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</td>
-</tr>
-</table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
