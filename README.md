@@ -7,7 +7,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thibautmarcq&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thibautmarcq&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
 
 #### 🌱 Outils et Technologies
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
